@@ -1,6 +1,6 @@
 # Social_Web
 Election Analysis via Twitter Data
-/newline
+
 Objective: Predicted Kenyan presidential election outcomes using Twitter sentiment analysis.
 
 Data Collection: Processed tweets, standardizing candidate names for relevance.
