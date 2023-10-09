@@ -5,7 +5,7 @@ Objective: Predicted Kenyan presidential election outcomes using Twitter sentime
 
 Data Collection: Processed tweets, standardizing candidate names for relevance.
 
-#Analysis: Performed data exploration, and sentiment categorization, and developed a scoring system factoring in public sentiment and attention.
+Analysis: Performed data exploration, and sentiment categorization, and developed a scoring system factoring in public sentiment and attention.
 
 Results: Accurately predicted William Ruto's win with a 50.49% vote share.
 
